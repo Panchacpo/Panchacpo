@@ -1,4 +1,16 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<br>
+<div align="center" style="position: relative; text-align: center; color: white; height: 300px; background-image: url('https://raw.githubusercontent.com/Panchacpo/Panchacpo/main/Banner%20para%20YouTube%20-%20Full%20Stack%20JS%20Developer.png'); background-size: cover; background-position: center;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-shadow: 2px 2px 4px #000000;">
+    <h1 style="margin: 0; font-size: 2.5em;">
+      Hi, I'm Francisca Cabrera 
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    </h1>
+  </div>
+</div>
+
+<!-- Resto del contenido -->
+
 <!--
 **Panchacpo/Panchacpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
-<h1 align="center">Hi , I'm Francisca Cabrera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FF69B4&size=25&center=true&vCenter=true&width=600&height=100&lines=FullStack+jr+developer;Continuous+improvement+passionate;Always+optimizing+processes;Always+learning+new+things" alt="Typing SVG" />
@@ -38,6 +49,8 @@ Here are some ideas to get you started:
 ⚡ **Fun fact:** I used to translate conferences, now I debug code... just as exciting! 😄
 
 
+<br/>
+<br/> 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
